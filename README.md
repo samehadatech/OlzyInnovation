@@ -1,5 +1,5 @@
-<h1>Hi, I'm Olzy! <br/><a href="https://github.com/OlzyInnovation">Programmer</a>, <a href="">Full Stack Software Engineer</a>, <a href="">YouTuber</a></h1>
-
+<h1>Hi, I'm Samehada! <br/><a href="https://github.com/samehadatech">Programmer</a>, <a href="">Full Stack Software Engineer</a>, <a href="">YouTuber</a></h1>
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=OlzyInnovation&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 <!--
